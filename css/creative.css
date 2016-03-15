@@ -265,6 +265,14 @@ header .header-content .header-content-inner p {
     max-width: 650px;
 }
 
+.my-box {
+    vertical-align: top;
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    max-width: 650px;
+}
+
 .portfolio-box .portfolio-box-caption {
     display: block;
     position: absolute;
