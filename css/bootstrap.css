@@ -1146,8 +1146,9 @@ img {
 
 .img-mine{
 
-   position: relative;
+   /*position: relative;
     float: left;
+    */
     width:  25px;
     height: 25px;
     /*
